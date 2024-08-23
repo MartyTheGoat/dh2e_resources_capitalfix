@@ -1,3 +1,8 @@
+Forked from the contributers bellow. Made this to have a repo with the fixed version for capitalization issues with this compendium.
+
+All creddit goes to the ones bellow, all i did was replace /dh2e_Resources/ with /dh2e_resources/ for each .db file, fixing the missing icon issue in Foundry VTT on Linux systems.
+
+
 This is a fork of https://github.com/Nosferaschu/dh2e_resources dedicated to add Foundry 9 and 11 compatibility and fix some errors.
 Thanks Nosferaschu for his work.
 
